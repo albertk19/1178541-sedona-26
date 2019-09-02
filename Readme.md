@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Альберт Хайдаров](https://up.htmlacademy.ru/htmlcss/26/user/1178541).
-* Наставник: `Неизвестно`.
+* Наставник: [Руслан Бреев](https://htmlacademy.ru/profile/blckwltz).
 
 ---
 
